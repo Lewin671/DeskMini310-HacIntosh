@@ -35,6 +35,7 @@
 + Use the Desktop Guide to tailor your own EFI, matching your setup
 + OpenCore logging is disabled, you should enable it for troubleshooting
 + Change the platform info when your done installing to enable iServices
++ 把"config.plist副本"的"副本"去掉。
 
 
 ### Geekbench 5

@@ -588,24 +588,24 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D4JZQJV3Q</string>
+			<string>C02Z20BMJV3Q</string>
 			<key>SystemUUID</key>
-			<string>7F1EFE1E-C748-46E5-AB87-B16BB4164AF1</string>
+			<string>DFBB901B-283A-4232-8EAA-C33AC0DCEB21</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02030102GULNV9JC</string>
+			<string>C029284014NLNV9FB</string>
 			<key>ROM</key>
-			<data>EBeMFkrx</data>
+			<data>z61VUZVK</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D4JZQJV3Q</string>
+			<string>C02Z20BMJV3Q</string>
 			<key>SystemUUID</key>
-			<string>7F1EFE1E-C748-46E5-AB87-B16BB4164AF1</string>
+			<string>DFBB901B-283A-4232-8EAA-C33AC0DCEB21</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -616,9 +616,9 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f//f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02030102GULNV9JC</string>
+			<string>C029284014NLNV9FB</string>
 			<key>ROM</key>
-			<data>EBeMFkrx</data>
+			<data>z61VUZVK</data>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
